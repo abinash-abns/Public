@@ -1,7 +1,7 @@
 # Package req: requests,json,bs4
 import requests
 import json
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup,sijsijnsdx
 import re
 
 apikey = "?apikey=c7d2bcddbd2e6e855b525a65f6cb56cc&"
